@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="TestESCPS.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TestESCPS.UWP"
+    RequestedTheme="Light">
+
+</Application>
